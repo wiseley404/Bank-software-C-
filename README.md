@@ -2,12 +2,11 @@
 
 A minimalist banking system built with C++ and Qt for graphical interface.
 
-**Individual University Project** - Developed for GIF-1003 course at Université Laval (Winter 2025).
+**Individual University Project** - Developed for GIF-1003 course (Advanced programmation in C++ for Engineer) at Université Laval (Winter 2025).
 
 ## 📹 Demo
 
-![Demo]
-
+![Demo](bank-system-demo.gif)
 
 
 ## 📸 Screenshots
