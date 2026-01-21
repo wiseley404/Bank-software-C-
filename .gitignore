@@ -1,0 +1,31 @@
+# Vs code
+.vscode/
+.vs/
+
+# Build folders
+build/
+dist/
+bin/
+obj/
+out/
+
+# NetBeans
+nbproject/
+nbbuild/
+
+# Compiled files
+*.obj
+*.o
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# CMake 
+CMakeFiles/
+Makefile
+CMakeCache.txt
+
+
